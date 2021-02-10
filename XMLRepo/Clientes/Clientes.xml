@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE clientes SYSTEM "Clientes .dtd">
+<clientes>
+    <sede codigo="A99999999">
+        <direccion>C/Pinitos, 10</direccion>
+        <direccion>C/San Juan, 2</direccion>
+        <empleado>Cristóbal Gómez Piñero</empleado>
+        <fecha>05-02-2021</fecha>
+        <descripcion>Urgente</descripcion>
+        <cliente codigo="ABC-123">
+            <numero>45</numero>
+            <coste>100</coste>
+            <resumen>Mascarillas</resumen>
+            <plazo>5</plazo>
+        </cliente>
+        <cliente codigo="AAA-112">
+            <numero>30</numero>
+            <coste>2</coste>
+            <resumen>Gel hidroalcoholico</resumen>
+            <plazo>3</plazo>
+        </cliente>
+    </sede>
+    <sede codigo="B66666666">
+        <direccion>Calle del Agua, 16</direccion>
+        <empleado>Marcos Romero Orellana</empleado>
+        <fecha>06-02-2021</fecha>
+        <cliente codigo="DEF-456">
+            <numero>10</numero>
+            <coste>10</coste>
+            <resumen>Gorras<resumen/>
+            <plazo>7</plazo>
+        </cliente>
+    </sede>
+</clientes>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Concesionario
+[
+<!ELEMENT Concesionario (Coche*)>
+<!ELEMENT Coche (Marca, potencia, plazas, npuertas)>
+<!ELEMENT Marca (modelo, matricula)>
+<!ELEMENT modelo (#PCDATA)>
+<!ELEMENT matricula (#PCDATA)>
+<!ELEMENT potencia (#PCDATA)>
+<!ELEMENT plazas (#PCDATA)>
+<!ELEMENT npuertas (#PCDATA)>
+]>
+
+
+<Concesionario>
+    <Coche>
+        <Marca>
+            <modelo>Ferrari LaFerrari Aperta</modelo>
+            <matricula>1234SDA</matricula>
+        </Marca>
+         <potencia>963CV</potencia>
+         <plazas>2</plazas>
+        <npuertas>2</npuertas>
+    </Coche>
+    <Coche>
+        <Marca>
+            <modelo>Aston Martin Valkyrie </modelo>
+            <matricula>5678SDF</matricula>
+        </Marca>
+         <potencia>1145CV</potencia>
+         <plazas>5</plazas>
+        <npuertas>2</npuertas>
+    </Coche>
+    <Coche>
+        <Marca>
+            <modelo>Bugatti Divo</modelo>
+            <matricula>9821HWE</matricula>
+        </Marca>
+         <potencia>1500CV</potencia>
+         <plazas>2</plazas>
+        <npuertas>2</npuertas>
+    </Coche>
+    <Coche>
+        <Marca>
+            <modelo>Rolls-Royce Sweptail</modelo>
+            <matricula>8234JKK</matricula>
+        </Marca>
+         <potencia>500CV</potencia>
+         <plazas>5</plazas>
+        <npuertas>4</npuertas>
+    </Coche>
+    <Coche>
+        <Marca>
+            <modelo>Bugatti “La Voiture Noire” </modelo>
+            <matricula>6669XDD</matricula>
+        </Marca>
+         <potencia>1500CV</potencia>
+         <plazas>2</plazas>
+        <npuertas>2</npuertas>
+    </Coche>
+</Concesionario>

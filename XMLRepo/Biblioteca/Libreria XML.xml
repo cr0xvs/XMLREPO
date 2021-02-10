@@ -1,0 +1,195 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE lista_libros SYSTEM "Libreria .dtd">
+<listalibros>
+<libro>
+    <autores>
+        <autor>
+            <apellido1>Piedraita</apellido1>
+            <apellido2>Paredes</apellido2>
+            <nombre>Luis</nombre>
+        </autor>
+        <autor>
+            <apellido1>Er</apellido1>
+            <apellido2>Mike</apellido2>
+            <nombre>Pepe</nombre>
+        </autor>
+    </autores>
+    <titulo>Poema de Gilgamesh</titulo>
+    <editorial>Alianza </editorial>
+    <fechaPublicacion>03-11-1935</fechaPublicacion>
+    <ISBN>987654321</ISBN>
+</libro>
+
+<libro>
+    <autores>
+        <autor>
+            <apellido1>Mela</apellido1>
+            <apellido2>Vo</apellido2>
+            <nombre>Jhonny</nombre>
+        </autor>
+        <autor>
+            <apellido1>Par</apellido1>
+            <apellido2>Edes</apellido2>
+            <nombre>Solomeo</nombre>
+        </autor>
+        </autores>
+        <titulo>Libro de Job</titulo>
+        <editorial>Ariel </editorial>
+        <fechaPublicacion>09-03-1911</fechaPublicacion>
+        <ISBN>654987321</ISBN>
+</libro>
+
+<libro>
+    <autores>
+        <autor>
+            <apellido1>Me</apellido1>
+            <apellido2>Lano</apellido2>
+            <nombre>Rosa</nombre>
+        </autor>
+        <autor>
+            <apellido1>De</apellido1>
+            <apellido2>Ubraik</apellido2>
+            <nombre>Crui</nombre>
+        </autor>
+    </autores>
+    <titulo>Las mil y una noches</titulo>
+    <editorial>Cátedra</editorial>
+    <fechaPublicacion>08-08-1933</fechaPublicacion>
+    <ISBN>789456123</ISBN>
+</libro>
+
+<libro>
+    <autores>
+        <autor>
+            <apellido1> Melo </apellido1>
+            <apellido2>Machuca</apellido2>
+            <nombre>María</nombre>
+        </autor>
+        <autor>
+            <apellido1>Ambes </apellido1>
+            <apellido2>Parada</apellido2>
+            <nombre>Miguel</nombre>
+        </autor>
+    </autores>
+    <titulo>Saga de Njál</titulo>
+    <editorial>Tirant Lo Blanch</editorial>
+    <fechaPublicacion>20-03-2008</fechaPublicacion>
+    <ISBN>123456789</ISBN>
+</libro>
+
+<libro>
+    <autores>
+        <autor>
+            <apellido1>Blanco </apellido1>
+            <apellido2>del fierro</apellido2>
+            <nombre>Zacarías </nombre>
+        </autor>
+        <autor>
+            <apellido1>Bello</apellido1>
+            <apellido2>Delano</apellido2>
+            <nombre>Zacarias</nombre>
+        </autor>
+    </autores>
+    <titulo>Todo se desmorona</titulo>
+    <editorial>Marcial Pons</editorial>
+    <fechaPublicacion>05-05-1987</fechaPublicacion>
+    <ISBN>456789123</ISBN>
+</libro>
+
+<libro>
+    <autores>
+        <autor>
+            <apellido1>Alegria </apellido1>
+            <apellido2>Delano</apellido2>
+            <nombre>Zoyla </nombre>
+        </autor>
+        <autor>
+            <apellido1>Vergara </apellido1>
+            <apellido2>Parada</apellido2>
+            <nombre>Deborah </nombre>
+    </autor>
+    </autores>
+    <titulo>Cuentos infantiles</titulo>
+    <editorial>Tecnos</editorial>
+    <fechaPublicacion>10-09-1926</fechaPublicacion>
+    <ISBN>456123789</ISBN>
+</libro>
+
+<libro>
+    <autores>
+        <autor>
+            <apellido1>Viuda</apellido1>
+            <apellido2>De Melano</apellido2>
+            <nombre>Juana </nombre>
+        </autor>
+        <autor>
+            <apellido1>Melo </apellido1>
+            <apellido2>Machuca</apellido2>
+            <nombre>Maria </nombre>
+        </autor>
+        </autores>
+            <titulo>Divina Comedia</titulo>
+            <editorial>Aranzadi</editorial>
+            <fechaPublicacion>06-07-1910</fechaPublicacion>
+            <ISBN>654321987</ISBN>
+</libro>
+
+<libro>
+    <autores>
+        <autor>
+            <apellido1>Cueva </apellido1>
+            <apellido2>Del Toro</apellido2>
+            <nombre>Zoila </nombre>
+        </autor>
+        <autor>
+            <apellido1>Carlos </apellido1>
+            <apellido2>Bustos</apellido2>
+            <nombre>Benito </nombre>
+        </autor>
+    </autores>
+    <titulo>Orgullo y prejuicio</titulo>
+    <editorial>Tecnos</editorial>
+    <fechaPublicacion>23-02-1936</fechaPublicacion>
+    <ISBN>654987321</ISBN>
+</libro>
+
+<libro>
+    <autores>
+        <autor>
+            <apellido1>Pinto</apellido1>
+            <apellido2>Paredes</apellido2>
+            <nombre>Aquiles</nombre>
+        </autor>
+        <autor>
+            <apellido1>Lisa</apellido1>
+            <apellido2>Melchocho</apellido2>
+            <nombre>Ana</nombre>
+        </autor>
+    </autores>
+    <titulo>Papá Goriot</titulo>
+    <editorial>Cátedra</editorial>
+    <fechaPublicacion>20-02-1974</fechaPublicacion>
+    <ISBN>852741963</ISBN>
+</libro>
+
+<libro>
+    <autores>
+        <autor>
+            <apellido1>Esteban</apellido1>
+            <apellido2>Quito</apellido2>
+            <nombre>Armando</nombre>
+        </autor>
+        <autor>
+            <apellido1>Melo</apellido1>
+            <apellido2>Muchaca</apellido2>
+            <nombre>María</nombre>
+        </autor>
+    </autores>
+    <titulo>Decamerón</titulo>
+    <editorial>Ariel</editorial>
+    <fechaPublicacion>28-01-1994</fechaPublicacion>
+    <ISBN>369258147</ISBN>
+</libro>
+
+</listalibros>

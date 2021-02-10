@@ -1,0 +1,48 @@
+<? xml versión = " 1.0 " codificación = " ISO-8859-1 " ?>
+<Concesionario xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Concesionario .xsd">
+    <coche>
+        <marca>
+            <modelo>Ferrari LaFerrari Aperta</modelo>
+            <matricula>1234SDA</matricula>
+        </marca>
+        <potencia>963CV</potencia>
+        <plazas>2</plazas>
+        <npuertas>2</npuertas>
+    </coche>
+    <coche>
+        <marca>
+            <modelo>Aston Martin Valkyrie </modelo>
+            <matricula>5678SDF</matricula>
+        </marca>
+        <potencia>1145CV</potencia>
+        <plazas>5</plazas>
+        <npuertas>2</npuertas>
+    </coche>
+    <coche>
+        <marca>
+            <modelo>Bugatti Divo</modelo>
+            <matricula>9821HWE</matricula>
+        </marca>
+        <potencia>1500CV</potencia>
+        <plazas>2</plazas>
+        <npuertas>2</npuertas>
+    </coche>
+    <coche>
+        <marca>
+            <modelo>Rolls-Royce Sweptail</modelo>
+            <matricula>8234JKK</matricula>
+        </marca>
+        <potencia>500CV</potencia>
+        <plazas>5</plazas>
+        <npuertas>4</npuertas>
+    </coche>
+    <coche>
+        <marca>
+            <modelo>Bugatti “La Voiture Noire” </modelo>
+            <matricula>6669XDD</matricula>
+        </marca>
+        <potencia>1500CV</potencia>
+        <plazas>2</plazas>
+        <npuertas>2</npuertas>
+    </coche>
+</Concesionario>
